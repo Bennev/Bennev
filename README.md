@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bennev&layout=compact&langs_count=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bennev&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 
 
