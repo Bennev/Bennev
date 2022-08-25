@@ -8,7 +8,8 @@
   <li>👯 I’m looking to collaborate on Junior Front-End Developer;
   <li>😁 I'm interested in web development;
   <li>🌱 I’m also learning Scrum and Git;
-  <li>😄 I've already done some projects using Django and Spring Boot.
+  <li>😄 I've already done some projects using Django and Spring Boot;
+  <li>🎓 I recently graduated in telecommunications engineering at IFCE.
 </ul>
 
 ### Contacts:
