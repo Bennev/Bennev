@@ -5,7 +5,7 @@
 
 ### Other Facts:
 <ul>
-  <li>👯 I’m looking to collaborate on Junior Front-End Developer;
+  <li>👯 Currently, I am working as a Junior Full Stack Developer;
   <li>😁 I'm interested in web development;
   <li>🌱 I’m also learning Scrum and Git;
   <li>😄 I've already done some projects using Django and Spring Boot;
