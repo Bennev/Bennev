@@ -5,11 +5,10 @@
 
 ### Other Facts:
 <ul>
-  <li>👯 Currently, I am working as a Junior Full Stack Developer;
+  <li>👯 Currently, I am working as a Full Stack Developer;
   <li>😁 I'm interested in web development;
-  <li>🌱 I’m also learning Scrum and Git;
   <li>😄 I've already done some projects using Django and Spring Boot;
-  <li>🎓 I recently graduated in telecommunications engineering at IFCE.
+  <li>🎓 I have a bachelor's degree in Telecommunications Engineering from IFCE.
 </ul>
 
 ### Contacts:
